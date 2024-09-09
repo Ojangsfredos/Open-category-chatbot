@@ -49,6 +49,8 @@ Create a `.env` file in the root directory and add your Google Gemini API key:
 
 ```
 API_KEY=your_google_gemini_api_key
+INFERMEDICA_APP_ID=your_infermedica_app_id
+INFERMEDICA_APP_KEY=your infermedica_API_key
 ```
 
 ### 4. Build the Application
